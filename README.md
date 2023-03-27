@@ -10,3 +10,4 @@ It is also known that the company "RandomCameraReviews" plans to distribute most
 
 
 ### Database ER
+<img src="ER_RCR.jpg"/>
