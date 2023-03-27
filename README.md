@@ -7,3 +7,6 @@ The company "RandomCameraReviews" needs a system that allows professional photog
 * User management for editors (does not include visitors reading reviews)
 
 It is also known that the company "RandomCameraReviews" plans to distribute mostly in South America where its biggest market is, but they also have sales in North America, Europe, and very few in Asia.
+
+
+### Database ER
